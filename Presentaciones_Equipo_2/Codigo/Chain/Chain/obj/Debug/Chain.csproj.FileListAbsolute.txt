@@ -1,0 +1,6 @@
+c:\users\cristian\documents\visual studio 2015\Projects\Chain\Chain\bin\Debug\Chain.exe.config
+c:\Users\Cristian\documents\visual studio 2015\Projects\Chain\Chain\bin\Debug\Chain.exe
+c:\Users\Cristian\documents\visual studio 2015\Projects\Chain\Chain\bin\Debug\Chain.pdb
+c:\Users\Cristian\documents\visual studio 2015\Projects\Chain\Chain\obj\Debug\Chain.csprojResolveAssemblyReference.cache
+c:\Users\Cristian\documents\visual studio 2015\Projects\Chain\Chain\obj\Debug\Chain.exe
+c:\Users\Cristian\documents\visual studio 2015\Projects\Chain\Chain\obj\Debug\Chain.pdb
