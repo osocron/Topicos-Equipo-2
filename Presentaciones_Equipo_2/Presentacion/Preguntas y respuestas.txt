@@ -1,0 +1,14 @@
+1. ¿Qué patrón de diseño permite separar completamente la lógica del negocio de la implementación?
+	Patrón Interpreter.
+
+2. ¿En qué consiste el patrón Memento? 
+	Este patrón permite capturar y exportar el estado interno de un objeto para que luego se pueda restaurar, sin romper la encapsulación.
+
+3. ¿Qué patrón de diseño  encapsula el comportamiento de todo un conjunto de objetos en un solo objeto?
+	Patrón Mediator.
+
+4. ¿Qué soporte se proporciona al encapsular una petición como un objeto?
+	Soporte para realizar operaciones que puedan deshacerse (Capacidad de deshacer).
+
+5. Cuando se necesita crear un Observable ¿De que clase se necesita extender o heredar?
+	De Observable.
